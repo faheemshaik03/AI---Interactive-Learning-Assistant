@@ -111,8 +111,8 @@ pip (Python package manager)
 ### Setup
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Enhanced-Interactive-Learning-Assistant.git
-    cd Enhanced-Interactive-Learning-Assistant
+    git clone https://github.com/faheemshaik03/AI---Interactive-Learning-Assistant/.git
+    cd AI---Interactive-Learning-Assistant
     ```
 
 2. Create a virtual environment (optional but recommended):
@@ -129,7 +129,7 @@ pip (Python package manager)
 
 4. Run the application:
     ```bash
-    streamlit run learning_assistant_app.py
+    streamlit run AI-ED-TECH.py
     ```
 
 ---
